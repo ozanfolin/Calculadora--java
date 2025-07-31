@@ -1,4 +1,4 @@
-Calculadora em Java / Java Calculator
+Calculadora no terminal em Java / Java Calculator
 
 ## Português
 
